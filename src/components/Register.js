@@ -29,13 +29,6 @@ export default function Register() {
                         name='password'
                         type={'password'}
                     />
-                    <input
-                        placeholder='Enter your Pin'
-                        className='input-fields'
-                        onChange={onInput}
-                        name='pin'
-                        type={'password'}
-                    />
 
                     <button className='input-btn'>
                         Sign Up
